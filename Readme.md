@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_assets.png" height="400" />
 </p>
 <p align="center">
-<b>assets</b>
+<b>pace assets</b>
 </p>
 
 <p align="center">
