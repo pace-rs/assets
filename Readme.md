@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_assets.png" height="400" />
+<img src="https://raw.githubusercontent.com/pace-rs/assets/main/logos/readme_header_assets.png" style="width: 66%; height: auto" />
 </p>
 <p align="center">
 <b>pace assets</b>
